@@ -1,2 +1,2 @@
-# AI_Project_MS_Sem1
+# AI_Project
 Artificial Intelligent Project for Semester 1 in Masters.
